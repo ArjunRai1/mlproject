@@ -6,7 +6,7 @@ def get_requirements(file_path: str) -> List[str]:  #List return type of require
     requirements=[]
     with open(file_path) as file_obj:
         requirements = file_obj.readlines()
-        [req.replace('\,', "") for req in requirements]
+        [req.replace('\n', "") for req in requirements]
         if HYPHEN_E_DOT in requirements:
             requirements.remove(HYPHEN_E_DOT)
     return requirements
@@ -14,7 +14,7 @@ def get_requirements(file_path: str) -> List[str]:  #List return type of require
 
 
 setup(
-    name='datascience-project',
+    name='datascienceproject',
     version='0.0.1',
     author='arjun',
     author_email='arjunrai2214@gmail.com',
