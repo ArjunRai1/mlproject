@@ -1,7 +1,12 @@
 numpy 
 pandas
+matplotlib
 python-dotenv
 mysql-connector-python
 pymysql
 scikit-learn
+ipykernel
+seaborn
+catboost
+xgboost
 #-e .
