@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/arjun/Documents/DataScience/mlruns/0/a94af0de8ede4da08b9b4ae4594ede0f/artifacts
+end_time: 1741524882603
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a94af0de8ede4da08b9b4ae4594ede0f
+run_name: stylish-lark-599
+run_uuid: a94af0de8ede4da08b9b4ae4594ede0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741524873999
+status: 3
+tags: []
+user_id: root

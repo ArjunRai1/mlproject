@@ -9,4 +9,6 @@ ipykernel
 seaborn
 catboost
 xgboost
+mlflow
+dagshub
 #-e .
